@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋
+---------------------
 
-<!--
-**ImOphen/ImOphen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- I’m currently a Computer Sciences Student at 1337 School
+- I’m currently learning: Cybersecurity, Web dev, and more ...
+- How to reach me: twitter.com/itsOphen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 My Github status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imophen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imophen&layout=compact&theme=radical)
+
+## 👨‍💻 My 42 stats
+
+
+![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=atouhami)
+![atouhami's 42 stats](https://badge42.herokuapp.com/api/stats/atouhami?darkmode=true&cursus=42cursus)
