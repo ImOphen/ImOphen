@@ -15,3 +15,4 @@ Hi there 👋
 
 ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=atouhami)
 ![atouhami's 42 stats](https://badge42.herokuapp.com/api/stats/atouhami?darkmode=true&cursus=42cursus)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ImOphen.visitor-badge)
