@@ -12,5 +12,4 @@ Hi there 👋
 
 ## 👨‍💻 My 42 stats
 
-![atouhami's 42 stats](https://badge42.herokuapp.com/api/stats/atouhami?darkmode=true&cursus=42cursus)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ImOphen.visitor-badge)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge.mediaplus.ma/darkblue/atouhami" alt="atouhami's 42 stats" /></a>
