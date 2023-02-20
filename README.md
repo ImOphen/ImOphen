@@ -5,6 +5,7 @@ Hi there 👋
 - I’m currently a Computer Sciences Student at 1337 School
 - I’m currently learning: Cybersecurity, Web dev, and more ...
 - How to reach me: twitter.com/itsOphen
+- Linkedin : https://www.linkedin.com/in/ophen/
 
 ## 📈 My Github status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imophen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
