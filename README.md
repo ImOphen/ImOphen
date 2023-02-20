@@ -1,8 +1,8 @@
-Hi there 👋
+Hi there I'm Ophen 👋
 ---------------------
 
 
-- Currently Co-Founder and CTO at ORA Technologies
+- I'm Currently a Co-Founder and CTO at ORA Technologies
 - Student at 1337 and previously pedagogical and technical manager at it.
 
 - How to reach me: twitter.com/itsOphen
